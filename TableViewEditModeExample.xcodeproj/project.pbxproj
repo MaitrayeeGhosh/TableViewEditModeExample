@@ -15,6 +15,7 @@
 		629576A81C4F27D9000BE50B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 629576A61C4F27D9000BE50B /* LaunchScreen.storyboard */; };
 		629576B31C4F27D9000BE50B /* TableViewEditModeExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 629576B21C4F27D9000BE50B /* TableViewEditModeExampleTests.m */; };
 		629576BE1C4F27D9000BE50B /* TableViewEditModeExampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 629576BD1C4F27D9000BE50B /* TableViewEditModeExampleUITests.m */; };
+		629576CC1C4F282C000BE50B /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 629576CB1C4F282C000BE50B /* image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		629576B91C4F27D9000BE50B /* TableViewEditModeExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewEditModeExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		629576BD1C4F27D9000BE50B /* TableViewEditModeExampleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewEditModeExampleUITests.m; sourceTree = "<group>"; };
 		629576BF1C4F27D9000BE50B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		629576CB1C4F282C000BE50B /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				629576A41C4F27D9000BE50B /* Assets.xcassets */,
 				629576A61C4F27D9000BE50B /* LaunchScreen.storyboard */,
 				629576A91C4F27D9000BE50B /* Info.plist */,
+				629576CB1C4F282C000BE50B /* image.jpg */,
 				629576981C4F27D9000BE50B /* Supporting Files */,
 			);
 			path = TableViewEditModeExample;
@@ -246,6 +249,7 @@
 				629576A81C4F27D9000BE50B /* LaunchScreen.storyboard in Resources */,
 				629576A51C4F27D9000BE50B /* Assets.xcassets in Resources */,
 				629576A31C4F27D9000BE50B /* Main.storyboard in Resources */,
+				629576CC1C4F282C000BE50B /* image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
